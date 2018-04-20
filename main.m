@@ -4,8 +4,6 @@
 %                                                                         %
 %                  Saman Sadeghi Afgeh and Shakeel Raja                   %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% This code is being submitted as a part of assessment for Neural         %
-% Computing Module in MSc. Data Science 2016/17.                          %
 % This main.m file contains the training, optimization, evaluation and    %
 % visualisations for MLP and SVM. The code program has been written in    %
 % a number 0f sections as below                                           %
