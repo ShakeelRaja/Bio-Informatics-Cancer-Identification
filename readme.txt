@@ -1,11 +1,10 @@
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 |        Saman Sadeghi Afgeh & Shakeel Raja			   |
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><>
-			Neural Computing Coursework
---------------------------------------------------------
+
 Folder content: 
 
-The coursework experiment  is controlled by the main.m file. This file uses the functions SupportVectorMachine and MultilayerPerceptron, which are stored in the files MultilayerPerceptron.m and SupportVectorMachine.m. 
+The experiment  is controlled by the main.m file. This file uses the functions SupportVectorMachine and MultilayerPerceptron, which are stored in the files MultilayerPerceptron.m and SupportVectorMachine.m. 
 
 Data normalization has been performed using StatisticalNormaliz.m function file  located in the folder func. 
 
